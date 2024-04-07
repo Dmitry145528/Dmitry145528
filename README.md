@@ -1,3 +1,3 @@
 <img src="Header.png" width="100%">
 
-<img src="About_Me.png"><h1>About Me</h1>
+<h1><img src="About_Me.png">About Me</h1>
