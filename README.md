@@ -22,6 +22,6 @@
 ---
 <h1 align="center"><img src="Contacts.png" width="30px"> My contacts</h1>
 
-<p align="center">&ensp;<img src="Mail.png" width="20px"><a href="mailto:dmitry29.petrov@yandex.ru"> dmitry29.petrov@yandex.ru</a></p>
+<p align="center">&ensp;<img src="Mail.png" width="20px">&ensp;<a href="mailto:dmitry29.petrov@yandex.ru">dmitry29.petrov@yandex.ru</a></p>
 
-<p align="center"><img src="Telegram.png" width="20px"><a href="mailto:https://t.me/DPetrovsky24"> https://t.me/DPetrovsky24</a></p>
+<p align="center"><img src="Telegram.png" width="20px">&ensp;<a href="mailto:https://t.me/DPetrovsky24">https://t.me/DPetrovsky24</a></p>
