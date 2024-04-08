@@ -1,5 +1,4 @@
-![Header](Header_2.png)
+<img src="Header_2.png" width="100%">
 
-# <img src="About Me.png" width="26px"> About Me
-
-Я Фронтент-разработчик из России
+<h2 font-size="28px"><img src="About Me.png" width="28px"> About Me</h2>
+<p>Я Фронтент-разработчик из России</p>
