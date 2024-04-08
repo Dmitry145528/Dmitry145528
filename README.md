@@ -2,8 +2,8 @@
 
 <hr style="border: 0; height: 1px;">
 
-<h1><img src="AboutMe.png" width="30px" > About Me</h1>
-## Я Фронтент-разработчик из России
+# <img src="AboutMe.png" width="30px" > About Me
+Я Фронтент-разработчик из России
 
 * <img src="update.png" width="20px"> Я люблю создавать и улучшать пользовательские интерфейсы, которые сочетают в себе красоту и функциональность.
 
